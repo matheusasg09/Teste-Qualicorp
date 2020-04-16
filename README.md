@@ -1,9 +1,9 @@
 <h1 align="center">
-  BIKCRAFT
+  QUALICORP
 </h1>
 
 <p align="center">   
-   <img alt="GitHub commits" src="https://badgen.net/github/commits/matheusasg09/Projeto-Bikcraft">
+   <img alt="GitHub commits" src="https://badgen.net/github/commits/matheusasg09/Teste-Qualicorp">
 
   <img  src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">
   
@@ -11,23 +11,23 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src="img/Bikcraft-git.png" width="80%">
+  <img alt="Frontend" src="public/qualicorp-teste.png" width="80%">
 </p>
 
-## ◾ Projeto
+## ◾ Teste
 
-O Bikcraft é um projeto totalmente responsivo feito com HTML, CSS e Javascript puro. O principal intuito era não usar nenhuma biblioteca ou framework para treinar tecnicas de CSS e Javascript.
+Este teste teve o intuito de demonstrar conhecimentos no consumo de API REST utilizando o framework Vue.js. O objetivo era listar planos de saúde com base nos dados do formulário. Todos os campos do formulário são alimentos por dados de API, apenas o campo data de nascimento está aberto para o usuário.
 
-#### Visitar o site: [Bikcraft.com](https://bikcraft.com/)
+Obs: Este teste foi feito em 1h e 40m e a estilização não foi o foco.
 
 ## ◾ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse teste foi desenvolvido com as seguintes tecnologias:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [PHP](https://www.php.net/docs.php)
+- [VUEJS](https://br.vuejs.org/index.html)
 
 ## ◾ Licença
 
