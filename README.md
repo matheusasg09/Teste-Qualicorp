@@ -20,6 +20,8 @@ Este teste teve o intuito de demonstrar conhecimentos no consumo de API REST uti
 
 Obs: Este teste foi feito em 1h e 40m e a estilização não foi o foco.
 
+#### Faça um teste: [Qualicorp-teste.com](https://teste-qualicorp.000webhostapp.com/)
+
 ## ◾ Tecnologias
 
 Esse teste foi desenvolvido com as seguintes tecnologias:
